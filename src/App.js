@@ -1,4 +1,4 @@
-import {BrowserRouter, BrowserRouter as router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import AddTodo from './components/AddTodo';
 import ListTodo from './components/ListTodo';
 import Home from './components/Home';
